@@ -1,5 +1,5 @@
 import nltk
-import espeak
+import python-espeak
 import pocketsphinx
 
 def main():
