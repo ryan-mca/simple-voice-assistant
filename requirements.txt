@@ -1,0 +1,4 @@
+nanoleafapi
+pocketsphinx
+espeak
+ntlk
