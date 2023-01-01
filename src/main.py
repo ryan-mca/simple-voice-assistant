@@ -1,9 +1,11 @@
 import nltk
 import pyttsx3
-import pocketsphinx
+from pocketsphinx import LiveSpeech
 
 def main():
-    return
+    start_phrase = "hey, speech"
+    for start_phrase in LiveSpeech(): 
+        print(start_phrase)
 
 if __name__ == "__main__":
     main()

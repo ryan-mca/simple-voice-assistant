@@ -1,4 +1,4 @@
 nanoleafapi
 pocketsphinx
-python-espeak
+pyttsx3
 nltk
